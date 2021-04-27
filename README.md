@@ -67,4 +67,4 @@ Fellow Udacity students
 Colleagues
 Family
 7. Results
-The main observations of the code are published on medium
+The main observations of the code are published on medium https://jaco-vanderwalt.medium.com/how-to-use-funk-svd-to-recommend-an-offer-a-learning-journey-of-discovery-1b45f7007e52
